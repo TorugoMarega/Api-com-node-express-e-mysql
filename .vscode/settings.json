@@ -12,6 +12,19 @@
             "name": "mariadb-ecommerce",
             "database": "ecommerce",
             "username": "root"
+        },
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "us-cdbr-east-05.cleardb.net",
+            "port": 3306,
+            "askForPassword": true,
+            "driver": "MySQL",
+            "name": "cleardb-heroku",
+            "username": "b2c64cfd38d931",
+            "database": "heroku_d4641a2bb799b65"
         }
     ]
 }

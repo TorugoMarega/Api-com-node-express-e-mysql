@@ -1,10 +1,10 @@
 {
         "env":{
-            "MYSQL_USER" : "root",                       
-            "MYSQL_PASSWORD" : "root",
+            "MYSQL_USER" : "b2c64cfd38d931",                       
+            "MYSQL_PASSWORD" : "fef50a10",
             "MYSQL_DATABASE" : "ecommerce",
-            "MYSQL_HOST" : "localhost",
-            "MYSQL_PORT" : 3307,
+            "MYSQL_HOST" : "us-cdbr-east-05.cleardb.net",
+            "MYSQL_PORT" : 3306,
             "JWT_KEY" : "segredo"
         }
 }
