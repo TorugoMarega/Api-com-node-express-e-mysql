@@ -2,7 +2,7 @@
 -- Generated: 2022-04-08 17:25
 -- Model: New Model
 -- Version: 1.0
--- Project: Name of the project
+-- Project: ecommerce nodejs
 -- Author: Victor Hugo Marega
 
 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0;
