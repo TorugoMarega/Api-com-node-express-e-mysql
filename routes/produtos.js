@@ -34,7 +34,7 @@ const upload = multer({
 router.get('/', ProdutosController.getProdutos);
 
 // insere (posta) um novo produto
-router.post('/',login.obrigatorio, upload.single('produto_imagem'), ProdutosController.postProdutos)
+router.post('/',login.obrigatorio, upload.single('imagem_produto'), ProdutosController.postProdutos)
 
 // retorna os dados de um produto
 router.get('/:id_produto',ProdutosController.getUmProduto);
